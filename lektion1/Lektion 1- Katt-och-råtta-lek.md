@@ -27,12 +27,12 @@ Byt sedan namn på *spriten* till vad du vill, vi ger katten namnet Felix.
 6. Se till att katten bara pekar åt vänster-höger genom att klicka på den här knappen:
 ![Välj rotationsstil](/lektion1/img/rotationstyle.png)
 
-*Detta ser till att katten inte vänder sig upp och ner!*.
+>*Detta ser till att katten inte vänder sig upp och ner!*.
 
 7. Skapa sedan följande script:
 ![kodblock](/lektion1/img/codeblock1.png)
 
-*Kan du läsa och se steg för steg vad detta script gör för något?*
+>*Kan du läsa och se steg för steg vad detta script gör för något?*
 
 ###Testa ditt projekt
 **Klicka på den gröna flaggan**
