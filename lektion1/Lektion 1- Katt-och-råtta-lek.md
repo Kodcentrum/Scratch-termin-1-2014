@@ -8,27 +8,27 @@ men se till att inte åka fast för då förlorar du poängen!
 
 Vi börjar med att göra så katt spriten följer efter muspekaren med ett beat i bakgrunden.
 
-*1. Logga in på http://scratch.mit.edu/
+* 1. Logga in på http://scratch.mit.edu/
 >*Om du inte har kollat på introduktionsvideon så fråga en vuxen om hjälp!*
 
-*2. Tryck på **Skapa** på hemsidan
+* 2. Tryck på **Skapa** på hemsidan
 
-*3. Om språket inte är **Svenska**, tryck på **jordklotet** och scrolla ner tills du hittar **Svenska**.
+* 3. Om språket inte är **Svenska**, tryck på **jordklotet** och scrolla ner tills du hittar **Svenska**.
 ![Välj språk](/lektion1/img/selectlanguage.png)
 
-*4. Klicka på scenen bredvid *spriten*.
+* 4. Klicka på scenen bredvid *spriten*.
 Byt till fliken **Bakgrunder**.
 Tryck på **”välj bakgrund från biblioteket”**.
 Välj sedan **inomhus/hall**.
 
-*5. Högerklicka på *spriten* och tryck på **info**.
+* 5. Högerklicka på *spriten* och tryck på **info**.
 Byt sedan namn på *spriten* till vad du vill, vi ger katten namnet Felix.
 
-*6. Se till att katten bara pekar åt vänster-höger genom att klicka på den här knappen:
+* 6. Se till att katten bara pekar åt vänster-höger genom att klicka på den här knappen:
 ![Välj rotationsstil](/lektion1/img/rotationstyle.png)
 >*Detta ser till att katten inte vänder sig upp och ner!*.
 
-*7. Skapa sedan följande script:
+* 7. Skapa sedan följande script:
 ![kodblock](/lektion1/img/codeblock1.png)
 >*Kan du läsa och se steg för steg vad detta script gör för något?*
 
@@ -41,9 +41,9 @@ Byt sedan namn på *spriten* till vad du vill, vi ger katten namnet Felix.
 Nu ska vi spara ditt projekt så att du alltid kan komma åt det om du tar en paus eller om du stänger
 av datorn!
 
-*8. Ge den namnet **Lektion 1** så att du kan enkelt hitta den igen.
+* 8. Ge den namnet **Lektion 1** så att du kan enkelt hitta den igen.
 
-*9. Klicka på **Arkiv** och sedan **Spara nu**.
+* 9. Klicka på **Arkiv** och sedan **Spara nu**.
 
 ![Spara](/lektion1/img/savenow.png)
 
@@ -54,13 +54,13 @@ till din dator!
 
 Nu vill vi att katten ska jaga råttan istället för muspekaren.
 
-10. Skapa en ny *sprite* genom att klicka på **”Välj sprite från biblioteket”**
+* 10. Skapa en ny *sprite* genom att klicka på **”Välj sprite från biblioteket”**
 Välj **djur/mouse1.**
 
-11. Byt namn på *spriten* (se punkt 5 om du inte kommer ihåg hur man gör) till vad du vill, vi ger
+* 11. Byt namn på *spriten* (se punkt 5 om du inte kommer ihåg hur man gör) till vad du vill, vi ger
 råttan namnet Herbert.
 
-12. Se till så att råttan bara pekar åt **vänster-höger** (se punkt 6 om du behöver hjälp).
+* 12. Se till så att råttan bara pekar åt **vänster-höger** (se punkt 6 om du behöver hjälp).
 . Klicka på förminska knappen och sedan på **råttan i scenen**, varje gång du trycker på råttan
 blir den mindre.
 
