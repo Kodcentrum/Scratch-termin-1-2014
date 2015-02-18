@@ -8,7 +8,7 @@ Vi börjar med att göra så katt spriten följer efter muspekaren med ett beat 
 Om du inte har kollat på introduktionsvideon så fråga en vuxen om hjälp!
 2. Tryck på Skapa på hemsidan
 3. Om språket inte är Svenska, tryck på jordklotet och scrolla ner tills du hittar Svenska.
-![Välj språk](/img/selectlanguage.png)
+![Välj språk](/lektion1/img/selectlanguage.png)
 4. Klicka på scenen bredvid spriten.
 Byt till fliken Bakgrunder.
 Tryck på ”välj bakgrund från biblioteket”.
