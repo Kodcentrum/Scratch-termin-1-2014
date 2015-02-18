@@ -28,7 +28,7 @@ Byt sedan namn på *spriten* till vad du vill, vi ger katten namnet Felix.
 ![Välj rotationsstil](/lektion1/img/rotationstyle.png)
 >*Detta ser till att katten inte vänder sig upp och ner!*.
 
-7. Skapa sedan följande script:
+7. Skapa sedan följande script för katten:
 ![kodblock](/lektion1/img/codeblock1.png)
 >*Kan du läsa och se steg för steg vad detta script gör för något?*
 
@@ -68,7 +68,7 @@ blir den mindre.
 
 **6 musklickningar** borde göra den tillräckligt liten.
 
-14. Ge råttan det här scriptet:
+14. Klicka på råttans *sprite* och bygg det här scriptet:
 ![kodblock](/lektion1/img/codeblock2.png)
 
 *Vad gör detta script?*
