@@ -2,12 +2,13 @@
 Vi ska skapa ett spel där katten ska försöka ta råttan. Du kontrollerar råttan med muspekaren och
 försöker undvika att bli fångad av katten. Ju längre du håller dig ifrån honom desto fler poäng får du,
 men se till att inte åka fast för då förlorar du poängen!
-Delmoment 1: Katten följer muspekaren
+##Delmoment 1: Katten följer muspekaren
 Vi börjar med att göra så katt spriten följer efter muspekaren med ett beat i bakgrunden.
 1. Logga in på http://scratch.mit.edu/
 Om du inte har kollat på introduktionsvideon så fråga en vuxen om hjälp!
 2. Tryck på Skapa på hemsidan
 3. Om språket inte är Svenska, tryck på jordklotet och scrolla ner tills du hittar Svenska.
+![Välj språk](/img/selectlanguage.png)
 4. Klicka på scenen bredvid spriten.
 Byt till fliken Bakgrunder.
 Tryck på ”välj bakgrund från biblioteket”.
@@ -29,7 +30,7 @@ av datorn!
 9. Klicka på Arkiv och sedan Spara nu.
 Du kan enkelt hitta den igen genom att gå till dina grejor, men om du vill kan du även ladda ner den
 till din dator!
-Delmoment 2: Katten jagar råttan
+##Delmoment 2: Katten jagar råttan
 Nu vill vi att katten ska jaga råttan istället för muspekaren.
 10. Skapa en ny sprite genom att klicka på ”Välj sprite från biblioteket”
 Välj djur/mouse1.
@@ -45,14 +46,14 @@ Testa ditt projekt
 Klicka på den gröna flaggan.
 Rör sig råttan med musmarkören?
 Jagar katten råttan?
-Delmoment 3: Katten säger till när han har fångat råttan
+##Delmoment 3: Katten säger till när han har fångat råttan
 Vi vill att katten ska veta när han har fångat råttan, och säga det till oss.
 15. Ändra kattens script (det du skapade i punkt 6) så det ser ut så här:
 Vad är det som sker nu i scriptet?
 Testa ditt projekt
 Klicka på den gröna flaggan.
 Säger katten Fångad! när han har fångat råttan?
-Delmoment 4: Råttan blir ett spöke när han fångas
+##Delmoment 4: Råttan blir ett spöke när han fångas
 Istället för att katten säger någonting så vill vi att råttan ska förvandlas till ett spöke när han fångas.
 16. Ändra i kattens script så att det skickar ut följande meddelande när han fångar råttan:
 Vad händer nu om katten rör råttan?
@@ -70,7 +71,7 @@ Klicka på den gröna flaggan.
 * Står katten still tillräckligt länge för att råttan ska kunna ge sig iväg?
 Detta kan du ändra genom att lägga ett ”vänta sekunder” block precis vid början av kattens
 script.
-Delmoment 5: Räkna poäng
+##Delmoment 5: Räkna poäng
 Nu lägger vi till ett poängsystem så vi vet hur bra vi är på att hålla råttan vid liv.
 Vi börjar med att låta poängen vara 0 och höjer den med 1 varje sekund. Om katten fångar råttan
 minskar vi poängen med -100.
