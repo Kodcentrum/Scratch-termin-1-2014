@@ -9,7 +9,7 @@ men se till att inte åka fast för då förlorar du poängen!
 Vi börjar med att göra så katt spriten följer efter muspekaren med ett beat i bakgrunden.
 
 1. Logga in på http://scratch.mit.edu/
-*Om du inte har kollat på introduktionsvideon så fråga en vuxen om hjälp!*
+>*Om du inte har kollat på introduktionsvideon så fråga en vuxen om hjälp!*
 
 2. Tryck på **Skapa** på hemsidan
 
@@ -27,12 +27,13 @@ Byt sedan namn på *spriten* till vad du vill, vi ger katten namnet Felix.
 6. Se till att katten bara pekar åt vänster-höger genom att klicka på den här knappen:
 ![Välj rotationsstil](/lektion1/img/rotationstyle.png)
 
-*Detta ser till att katten inte vänder sig upp och ner!*
+*Detta ser till att katten inte vänder sig upp och ner!*.
 
 7. Skapa sedan följande script:
 ![kodblock](/lektion1/img/codeblock1.png)
 
 *Kan du läsa och se steg för steg vad detta script gör för något?*
+
 ###Testa ditt projekt
 **Klicka på den gröna flaggan**
 * Följer katten muspekaren?
