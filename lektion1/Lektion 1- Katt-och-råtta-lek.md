@@ -25,44 +25,73 @@ Välj sedan **inomhus/hall**.
 Byt sedan namn på *spriten* till vad du vill, vi ger katten namnet Felix.
 
 6. Se till att katten bara pekar åt vänster-höger genom att klicka på den här knappen:
+![Välj rotationsstil](/lektion1/img/rotationstyle.png)
 *Detta ser till att katten inte vänder sig upp och ner!*
 
 7. Skapa sedan följande script:
-Kan du läsa och se steg för steg vad detta script gör för något?
-Testa ditt projekt
-Klicka på den gröna flaggan
+![kodblock](/lektion1/img/codeblock1.png)
+
+
+*Kan du läsa och se steg för steg vad detta script gör för något?*
+###Testa ditt projekt
+**Klicka på den gröna flaggan**
 * Följer katten muspekaren?
 * Ser det ut som att han går när han rör sig?
 * Rör han sig i rätt hastighet?
+
 Nu ska vi spara ditt projekt så att du alltid kan komma åt det om du tar en paus eller om du stänger
 av datorn!
-8. Ge den namnet Lektion 1 så att du kan enkelt hitta den igen.
-9. Klicka på Arkiv och sedan Spara nu.
-Du kan enkelt hitta den igen genom att gå till dina grejor, men om du vill kan du även ladda ner den
+
+8. Ge den namnet **Lektion 1** så att du kan enkelt hitta den igen.
+
+9. Klicka på **Arkiv** och sedan **Spara nu**.
+
+![Spara](/lektion1/img/savenow.png)
+
+Du kan enkelt hitta den igen genom att gå till **dina grejor**, men om du vill kan du även **ladda ner** den
 till din dator!
+
 ##Delmoment 2: Katten jagar råttan
+
 Nu vill vi att katten ska jaga råttan istället för muspekaren.
-10. Skapa en ny sprite genom att klicka på ”Välj sprite från biblioteket”
-Välj djur/mouse1.
-11. Byt namn på spriten (se punkt 5 om du inte kommer ihåg hur man gör) till vad du vill, vi ger
+
+10. Skapa en ny *sprite* genom att klicka på **”Välj sprite från biblioteket”**
+Välj **djur/mouse1.**
+
+11. Byt namn på *spriten* (se punkt 5 om du inte kommer ihåg hur man gör) till vad du vill, vi ger
 råttan namnet Herbert.
-12. Se till så att råttan bara pekar åt vänster-höger (se punkt 6 om du behöver hjälp).
-. Klicka på förminska knappen och sedan på råttan i scenen, varje gång du trycker på råttan
+
+12. Se till så att råttan bara pekar åt **vänster-höger** (se punkt 6 om du behöver hjälp).
+. Klicka på förminska knappen och sedan på **råttan i scenen**, varje gång du trycker på råttan
 blir den mindre.
-6 musklickningar borde göra den tillräckligt liten.
+
+![Förminska](/lektion1/img/makesmaller.png)
+**6 musklickningar** borde göra den tillräckligt liten.
+
 14. Ge råttan det här scriptet:
-Vad gör detta script?
-Testa ditt projekt
-Klicka på den gröna flaggan.
+![kodblock](/lektion1/img/codeblock2.png)
+*Vad gör detta script?*
+
+###Testa ditt projekt
+**Klicka på den gröna flaggan.**
+
 Rör sig råttan med musmarkören?
+
 Jagar katten råttan?
+
 ##Delmoment 3: Katten säger till när han har fångat råttan
+
 Vi vill att katten ska veta när han har fångat råttan, och säga det till oss.
-15. Ändra kattens script (det du skapade i punkt 6) så det ser ut så här:
-Vad är det som sker nu i scriptet?
-Testa ditt projekt
-Klicka på den gröna flaggan.
-Säger katten Fångad! när han har fångat råttan?
+
+15. Ändra kattens *script* (det du skapade i punkt 6) så det ser ut så här:
+![kodblock](/lektion1/img/codeblock2.png)
+*Vad är det som sker nu i scriptet?*
+
+###Testa ditt projekt
+**Klicka på den gröna flaggan.**
+
+Säger katten **Fångad!** när han har fångat råttan?
+
 ##Delmoment 4: Råttan blir ett spöke när han fångas
 Istället för att katten säger någonting så vill vi att råttan ska förvandlas till ett spöke när han fångas.
 16. Ändra i kattens script så att det skickar ut följande meddelande när han fångar råttan:
