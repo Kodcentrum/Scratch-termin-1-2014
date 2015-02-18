@@ -26,6 +26,7 @@ Byt sedan namn på *spriten* till vad du vill, vi ger katten namnet Felix.
 
 6. Se till att katten bara pekar åt vänster-höger genom att klicka på den här knappen:
 ![Välj rotationsstil](/lektion1/img/rotationstyle.png)
+
 *Detta ser till att katten inte vänder sig upp och ner!*
 
 7. Skapa sedan följande script:
@@ -66,10 +67,12 @@ råttan namnet Herbert.
 blir den mindre.
 
 ![Förminska](/lektion1/img/makesmaller.png)
+
 **6 musklickningar** borde göra den tillräckligt liten.
 
 14. Ge råttan det här scriptet:
 ![kodblock](/lektion1/img/codeblock2.png)
+
 *Vad gör detta script?*
 
 ###Testa ditt projekt
