@@ -32,7 +32,6 @@ Byt sedan namn på *spriten* till vad du vill, vi ger katten namnet Felix.
 7. Skapa sedan följande script:
 ![kodblock](/lektion1/img/codeblock1.png)
 
-
 *Kan du läsa och se steg för steg vad detta script gör för något?*
 ###Testa ditt projekt
 **Klicka på den gröna flaggan**
