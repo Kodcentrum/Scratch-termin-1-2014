@@ -1,22 +1,32 @@
 #Lektion 1: Katt-och-råtta-lek
+
 Vi ska skapa ett spel där katten ska försöka ta råttan. Du kontrollerar råttan med muspekaren och
 försöker undvika att bli fångad av katten. Ju längre du håller dig ifrån honom desto fler poäng får du,
 men se till att inte åka fast för då förlorar du poängen!
+
 ##Delmoment 1: Katten följer muspekaren
+
 Vi börjar med att göra så katt spriten följer efter muspekaren med ett beat i bakgrunden.
+
 1. Logga in på http://scratch.mit.edu/
-Om du inte har kollat på introduktionsvideon så fråga en vuxen om hjälp!
-2. Tryck på Skapa på hemsidan
-3. Om språket inte är Svenska, tryck på jordklotet och scrolla ner tills du hittar Svenska.
+*Om du inte har kollat på introduktionsvideon så fråga en vuxen om hjälp!*
+
+2. Tryck på **Skapa** på hemsidan
+
+3. Om språket inte är **Svenska**, tryck på **jordklotet** och scrolla ner tills du hittar **Svenska**.
 ![Välj språk](/lektion1/img/selectlanguage.png)
-4. Klicka på scenen bredvid spriten.
-Byt till fliken Bakgrunder.
-Tryck på ”välj bakgrund från biblioteket”.
-Välj sedan inomhus/hall.
-5. Högerklicka på spriten och tryck på info.
-Byt sedan namn på spriten till vad du vill, vi ger katten namnet Felix.
+
+4. Klicka på scenen bredvid *spriten*.
+Byt till fliken **Bakgrunder**.
+Tryck på **”välj bakgrund från biblioteket”**.
+Välj sedan **inomhus/hall**.
+
+5. Högerklicka på *spriten* och tryck på **info**.
+Byt sedan namn på *spriten* till vad du vill, vi ger katten namnet Felix.
+
 6. Se till att katten bara pekar åt vänster-höger genom att klicka på den här knappen:
-Detta ser till att katten inte vänder sig upp och ner!
+*Detta ser till att katten inte vänder sig upp och ner!*
+
 7. Skapa sedan följande script:
 Kan du läsa och se steg för steg vad detta script gör för något?
 Testa ditt projekt
